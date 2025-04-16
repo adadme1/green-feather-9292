@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "green-feather-9292",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "57bc9509-af70-4c4c-bdcd-40cf81c7ec0c",
+      "database_name": "black-resonance-74ac-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
